@@ -6,7 +6,7 @@
 # Usage : Le script est à exécuter avec ou sans répertoire en argument
 # Exemple : python3 concat_yml.sh /home/user/yml/
 # Limites connues : Aucune
-# Version : 1.0
+# Version : 2.0
 # Historique : 26/11/2025 - Création du script - LePtitMetalleux
 #              31/01/2026 - Amélioration du script, optimisations - LePtitMetalleux
 
