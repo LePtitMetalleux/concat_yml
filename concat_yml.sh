@@ -4,7 +4,7 @@
 # Auteur : LePtitMetalleux
 # Utilité : Concatène plusieurs fichiers YML
 # Usage : Le script est à exécuter avec ou sans répertoire en argument
-# Exemple : python3 concat_yml.sh /home/user/yml/
+# Exemple : ./concat_yml.sh /home/user/yml/
 # Limites connues : Aucune
 # Version : 2.0
 # Historique : 26/11/2025 - Création du script - LePtitMetalleux
